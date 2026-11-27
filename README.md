@@ -1,112 +1,75 @@
-# Hey there, I'm Vivek Yadav 👋
+# Hi, I'm Vivek Yadav 👋
 
-### Full-Stack Developer | Open Source Enthusiast | GSoC '26 Contributor
+### B.Tech Computer Science Student at KIIT | Java & Backend Development | Open-Source Contributor
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9d4edd&height=200&section=header&text=Building%20the%20Future%20of%20Chat&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:2563eb&height=190&section=header&text=Building%20Reliable%20Software&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="Building Reliable Software" />
 </p>
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li><b>Name:</b> Vivek Yadav</li>
-        <li><b>Role:</b> Full-Stack Engineer</li>
-        <li><b>University:</b> KIIT University</li>
-        <li><b>Current Focus:</b> Improving @RocketChat's EmbeddedChat</li>
-      </ul>
-      <p>
-        🌱 Diving deep into <b>System Design & Advanced React Patterns</b>.<br/>
-        🚀 Passionate about building scalable, high-performance web applications.<br/>
-        🎯 Aiming to revolutionize <b>EmbeddedChat</b> at Rocket.Chat.<br/>
-        📫 Let's connect: <b>[vivekyadav-3](https://github.com/vivekyadav-3)</b>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 GitHub Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=vivekyadav-3&show_icons=true&theme=tokyonight&hide_border=true&title_color=9d4edd&icon_color=9d4edd&text_color=c9d1d9" alt="GitHub Stats" width="100%" />
-      <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav-3&theme=tokyonight&hide_border=true&stroke=9d4edd&ring=9d4edd&fire=9d4edd" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+I'm a Computer Science undergraduate who enjoys building useful software, understanding how systems work, and contributing to real-world codebases.
+
+- 🎓 Pursuing B.Tech in Computer Science and Engineering at **KIIT University**.
+- 💻 Working mainly with **Java, TypeScript, and JavaScript**.
+- 🔧 Interested in backend engineering, APIs, databases, and developer tools.
+- 🌱 Currently strengthening my skills in **Spring Boot, Node.js, system design, and DSA**.
+- 🤝 Enjoy collaborating with open-source communities and learning through code reviews.
 
 ---
 
-### 🧊 3D Contribution Calendar
+## Open-Source Contributions
+
+| Project | Contribution |
+| --- | --- |
+| **Apache Fineract** | [PR #6991](https://github.com/apache/fineract/pull/6991) and [PR #6994](https://github.com/apache/fineract/pull/6994) merged. [PR #7003](https://github.com/apache/fineract/pull/7003) under review. |
+| **Apache DolphinScheduler** | [PR #18817](https://github.com/apache/dolphinscheduler/pull/18817): Recursive GCS directory deletion with Testcontainers integration tests. |
+| **Eclipse SW360** | [Backend PR #4836](https://github.com/eclipse-sw360/sw360/pull/4836) and [Frontend PR #2225](https://github.com/eclipse-sw360/sw360-frontend/pull/2225). |
+| **Proofline TypeScript SDK** | [PR #69](https://github.com/prooflinedev/sdk-typescript/pull/69): Improved HTTP transport error handling and preserved original error causes. |
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" width="100%" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,spring,nodejs,express,react,nextjs,html,css,postgres,mongodb,mysql,redis,docker,git,github&perline=9" alt="Technology stack" />
 </p>
 
+**Core areas:** Java and OOP · REST APIs · Backend development · SQL and NoSQL databases · Integration testing · Data Structures and Algorithms
+
 ---
 
-### ⚡ GitHub Metrics & Radar Chart
+## What I'm Focused On
+
+- Building reliable backend services and full-stack applications.
+- Improving my understanding of system design, databases, and distributed systems.
+- Solving DSA problems in Java.
+- Making meaningful contributions to open-source projects and learning from maintainers' feedback.
+
+---
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://github.com/vivekyadav-3/vivekyadav-3/blob/main/github-metrics.svg" alt="Metrics" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekyadav-3&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekyadav-3&theme=tokyonight&hide_border=true" alt="GitHub streak" height="165" />
 </p>
 
----
-
-### 🚀 Experience Highlights
-
-<table border="0">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🏢 Rocket.Chat</h4>
-      <b>GSoC '26 Contributor • Feb 2026 - Present</b>
-      <ul>
-        <li>Spearheaded <b>Holistic Stability Overhaul</b> (#1163) for EmbeddedChat.</li>
-        <li>Optimized <code>MessageAggregator</code> rendering and consolidated auth listeners.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🏢 CircuitVerse</h4>
-      <b>OSS Contributor • Jan 2026 - Feb 2026</b>
-      <ul>
-        <li>Fixed critical <b>Heatmap Drift</b> and timezone mapping issues.</li>
-        <li>Improved accuracy of global contributor activity tracking.</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🏢 Personal Projects</h4>
-      <b>Full-Stack Developer • 2025 - Present</b>
-      <ul>
-        <li><b>RootCode:</b> A full-fledged code execution engine with Judge integration.</li>
-        <li><b>EcoCart:</b> Modern MERN stack e-commerce with performance optimizations.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,js,ts,git,github,vscode,postman&perline=14&theme=dark" />
-</div>
-
----
-
-### 🌐 Open Source Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekyadav-3&theme=react-dark&area=true&bg_color=0d1117&color=9d4edd&line=9d4edd&point=9d4edd" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vivekyadav-3&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph" width="95%" />
 </p>
 
 ---
 
-### 🌟 Featured Project: [EmbeddedChat](https://github.com/RocketChat/EmbeddedChat)
+## Connect With Me
 
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/495537552/35cc7e2a-049d-4731-9252-094e963ce607" alt="EmbeddedChat" width="80%" style="border-radius: 10px;" />
+  <a href="https://www.linkedin.com/in/vivekyadavcs/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/vivekyadav-3">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
+
 <p align="center">
-  Actively improving the core reliability and UX of Rocket.Chat's lightweight chat widget. Focus areas: Authentication FSM, performance optimization, and feature parity.
+  Thanks for visiting my profile! Feel free to explore my repositories and contributions.
 </p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekyadav-3&color=9d4edd" alt="Profile Views" />
-</div>
