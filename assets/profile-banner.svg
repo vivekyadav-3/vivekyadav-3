@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#090d1a" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="50%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#06b6d4" />
+    </linearGradient>
+    <radialGradient id="glowPurple" cx="0.2" cy="0.2" r="0.6">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.28" />
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="0.85" cy="0.8" r="0.55">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.22" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="1" stroke-opacity="0.55" />
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="360" rx="16" fill="url(#bgGrad)" />
+  <rect width="1200" height="360" rx="16" fill="url(#grid)" />
+  <rect width="1200" height="360" rx="16" fill="url(#glowPurple)" />
+  <rect width="1200" height="360" rx="16" fill="url(#glowCyan)" />
+  <rect x="1" y="1" width="1198" height="358" rx="15" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Top accent bar -->
+  <rect x="48" y="44" width="72" height="4" rx="2" fill="url(#accentGrad)" />
+
+  <!-- Main Title -->
+  <text x="48" y="112" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#f8fafc" letter-spacing="-1">
+    Vivek Yadav
+  </text>
+
+  <!-- Subtitle -->
+  <text x="48" y="154" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#94a3b8">
+    Java &amp; Backend Developer · Open-Source Contributor · B.Tech CSE @ KIIT
+  </text>
+
+  <!-- Tagline -->
+  <text x="48" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" fill="#38bdf8">
+    &gt; Building reliable backend services, developer tools &amp; cloud storage integrations
+  </text>
+
+  <!-- Tech Pills -->
+  <g transform="translate(48, 236)">
+    <rect x="0" y="0" width="94" height="36" rx="18" fill="#1e1b4b" stroke="#6366f1" stroke-width="1.2" />
+    <text x="47" y="23" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#c7d2fe">Java</text>
+
+    <rect x="108" y="0" width="134" height="36" rx="18" fill="#1e1b4b" stroke="#8b5cf6" stroke-width="1.2" />
+    <text x="175" y="23" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#ddd6fe">Spring Boot</text>
+
+    <rect x="256" y="0" width="130" height="36" rx="18" fill="#082f49" stroke="#0284c7" stroke-width="1.2" />
+    <text x="321" y="23" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#bae6fd">TypeScript</text>
+
+    <rect x="400" y="0" width="110" height="36" rx="18" fill="#083344" stroke="#06b6d4" stroke-width="1.2" />
+    <text x="455" y="23" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#a5f3fc">Docker</text>
+
+    <rect x="524" y="0" width="146" height="36" rx="18" fill="#172554" stroke="#3b82f6" stroke-width="1.2" />
+    <text x="597" y="23" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="14" font-weight="600" fill="#bfdbfe">Apache OSS</text>
+  </g>
+
+  <!-- Right-side Code Terminal Card -->
+  <g transform="translate(800, 56)">
+    <rect x="0" y="0" width="352" height="248" rx="12" fill="#0b1120" stroke="#334155" stroke-width="1.2" />
+    <circle cx="22" cy="20" r="5" fill="#ef4444" />
+    <circle cx="40" cy="20" r="5" fill="#f59e0b" />
+    <circle cx="58" cy="20" r="5" fill="#10b981" />
+    <line x1="0" y1="38" x2="352" y2="38" stroke="#1e293b" stroke-width="1" />
+
+    <text x="20" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#c084fc">const</text>
+    <text x="68" y="68" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e2e8f0">developer = {</text>
+
+    <text x="36" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#38bdf8">stack:</text>
+    <text x="92" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#a5f3fc">["Java", "TS", "Spring"]</text>
+    <text x="280" y="96" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e2e8f0">,</text>
+
+    <text x="36" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#38bdf8">focus:</text>
+    <text x="92" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#34d399">"Backend &amp; APIs"</text>
+    <text x="234" y="124" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e2e8f0">,</text>
+
+    <text x="36" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#38bdf8">oss:</text>
+    <text x="76" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#fbbf24">"Apache · Eclipse"</text>
+    <text x="228" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e2e8f0">,</text>
+
+    <text x="36" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#38bdf8">testing:</text>
+    <text x="108" y="180" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#34d399">"Testcontainers"</text>
+
+    <text x="20" y="210" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13.5" fill="#e2e8f0">};</text>
+  </g>
+</svg>
